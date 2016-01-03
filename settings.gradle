@@ -1,0 +1,2 @@
+include ':app',':imageloader'
+project(':imageloader').projectDir = new File(settingsDir, '../imageloader')
