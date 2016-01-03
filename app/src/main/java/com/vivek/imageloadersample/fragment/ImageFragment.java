@@ -1,4 +1,4 @@
-package com.vivek.gallery.fragment;
+package com.vivek.imageloadersample.fragment;
 
 
 import android.content.Context;
@@ -9,7 +9,7 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 
 import com.squareup.picasso.Picasso;
-import com.vivek.gallery.R;
+import com.vivek.imageloadersample.R;
 import com.vivek.imageloader.ImageLoader;
 
 import java.io.File;

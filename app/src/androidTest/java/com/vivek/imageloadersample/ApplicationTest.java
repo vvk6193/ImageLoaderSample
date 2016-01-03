@@ -1,4 +1,4 @@
-package com.vivek.gallery;
+package com.vivek.imageloadersample;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

@@ -1,4 +1,4 @@
-package com.vivek.gallery.fragment;
+package com.vivek.imageloadersample.fragment;
 
 
 import android.content.Context;

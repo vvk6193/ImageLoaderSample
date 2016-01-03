@@ -1,4 +1,4 @@
-package com.vivek.gallery;
+package com.vivek.imageloadersample;
 
 import org.junit.Test;
 

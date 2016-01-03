@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.vivek.gallery">
+    package="com.vivek.imageloadersample">
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".HomeActivity"
+            android:name="com.vivek.imageloadersample.HomeActivity"
             android:label="@string/app_name"
             android:theme="@style/AppTheme.NoActionBar">
             <intent-filter>
@@ -22,10 +22,10 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="GalleryActivity"
+            android:name="com.vivek.imageloadersample.GalleryActivity"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
-            android:name="OpenImageActivity"
+            android:name="com.vivek.imageloadersample.OpenImageActivity"
             android:theme="@style/AppTheme.NoActionBar" />
     </application>
 

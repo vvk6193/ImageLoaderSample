@@ -1,4 +1,4 @@
-package com.vivek.gallery;
+package com.vivek.imageloadersample;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -9,7 +9,7 @@ import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.view.View;
 
-import com.vivek.gallery.adapter.GalleryPagerAdapter;
+import com.vivek.imageloadersample.adapter.GalleryPagerAdapter;
 
 
 public class OpenImageActivity extends AppCompatActivity {

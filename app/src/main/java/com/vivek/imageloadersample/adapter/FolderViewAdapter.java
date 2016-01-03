@@ -1,4 +1,4 @@
-package com.vivek.gallery.adapter;
+package com.vivek.imageloadersample.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -9,8 +9,8 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.vivek.gallery.R;
-import com.vivek.gallery.interfaces.ClickListener;
+import com.vivek.imageloadersample.R;
+import com.vivek.imageloadersample.interfaces.ClickListener;
 import com.vivek.imageloader.ImageLoader;
 
 import java.io.File;

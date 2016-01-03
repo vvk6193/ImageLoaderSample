@@ -1,11 +1,11 @@
-package com.vivek.gallery.adapter;
+package com.vivek.imageloadersample.adapter;
 
 import android.content.Context;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.vivek.gallery.fragment.ImageFragment;
+import com.vivek.imageloadersample.fragment.ImageFragment;
 
 import java.io.File;
 

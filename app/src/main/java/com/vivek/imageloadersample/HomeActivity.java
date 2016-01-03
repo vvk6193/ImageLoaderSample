@@ -1,4 +1,4 @@
-package com.vivek.gallery;
+package com.vivek.imageloadersample;
 
 import android.content.Intent;
 import android.content.res.Configuration;
@@ -19,8 +19,8 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.LinearLayout;
 
-import com.vivek.gallery.adapter.FolderViewAdapter;
-import com.vivek.gallery.interfaces.ClickListener;
+import com.vivek.imageloadersample.adapter.FolderViewAdapter;
+import com.vivek.imageloadersample.interfaces.ClickListener;
 
 import java.io.File;
 import java.util.ArrayList;
